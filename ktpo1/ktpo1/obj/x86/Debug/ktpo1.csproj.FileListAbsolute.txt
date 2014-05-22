@@ -1,0 +1,42 @@
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Form1.resources
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Properties.Resources.resources
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\bin\Debug\ktpo1.exe
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\bin\Debug\ktpo1.pdb
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\obj\x86\Debug\ktpo1.exe
+C:\Users\Полина\Documents\Visual Studio 2010\Projects\ktpo1\ktpo1\obj\x86\Debug\ktpo1.pdb
+H:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.exe
+H:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.pdb
+H:\ktpo1\ktpo1\bin\Debug\ktpo1.exe
+H:\ktpo1\ktpo1\bin\Debug\ktpo1.pdb
+H:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Form1.resources
+H:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Properties.Resources.resources
+H:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.csproj.GenerateResource.Cache
+H:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.csprojResolveAssemblyReference.cache
+G:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.exe
+G:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.pdb
+G:\ktpo1\ktpo1\bin\Debug\ktpo1.exe
+G:\ktpo1\ktpo1\bin\Debug\ktpo1.pdb
+G:\ktpo1\ktpo1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Form1.resources
+G:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Properties.Resources.resources
+G:\ktpo1\ktpo1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ktpo1\ktpo1\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.exe
+L:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.pdb
+L:\ktpo1\ktpo1\bin\Debug\ktpo1.exe
+L:\ktpo1\ktpo1\bin\Debug\ktpo1.pdb
+L:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.csprojResolveAssemblyReference.cache
+L:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Form1.resources
+L:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Properties.Resources.resources
+L:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.csproj.GenerateResource.Cache
+N:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.exe
+N:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.pdb
+N:\ktpo1\ktpo1\bin\Debug\ktpo1.exe
+N:\ktpo1\ktpo1\bin\Debug\ktpo1.pdb
+N:\ktpo1\ktpo1\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Form1.resources
+N:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.Properties.Resources.resources
+N:\ktpo1\ktpo1\obj\x86\Debug\ktpo1.csproj.GenerateResource.Cache

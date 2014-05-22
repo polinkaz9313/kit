@@ -1,0 +1,8 @@
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\obj\Debug\ktpo1.Form1.resources
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\obj\Debug\ktpo1.Properties.Resources.resources
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\obj\Debug\ktpo1.csproj.GenerateResource.Cache
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\bin\Debug\ktpo1.exe
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\bin\Debug\ktpo1.pdb
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\obj\Debug\ktpo1.exe
+C:\Users\Поля\Documents\Visual Studio 2008\Projects\ktpo1\ktpo1\obj\Debug\ktpo1.pdb
