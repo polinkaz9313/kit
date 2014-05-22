@@ -1,0 +1,14 @@
+﻿Build started 24.04.2014 12:09:02.
+     1>Project "C:\Users\11va\documents\visual studio 2010\Projects\kitpo1\kitpo1\kitpo1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\kitpo1.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\kitpo1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt kitpo1.cpp
+         kitpo1.cpp
+     1>c:\users\11va\documents\visual studio 2010\projects\kitpo1\kitpo1\kitpo1.cpp(5): fatal error C1083: Cannot open include file: 'KiTPO_laba1.h': No such file or directory
+     1>Done Building Project "C:\Users\11va\documents\visual studio 2010\Projects\kitpo1\kitpo1\kitpo1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37
